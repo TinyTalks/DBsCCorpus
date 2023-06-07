@@ -3,7 +3,7 @@
 <h2 align="center"> 📕DDmkTCCorpus: 历时弹幕文本评论语料库</h2>
 
 <h4 align="center">
-    <a href="https://github.com/DBsCCorpus">中文</a> |
+    <a href="https://github.com/TinyTalks/DDmkTCCorpus/README.md">中文</a> |
     <a href="https://github.com/TinyTalks/DDmkTCCorpus/blob/main/README_en.md">English</a>
 </h4>
 
