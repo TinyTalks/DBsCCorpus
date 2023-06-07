@@ -120,6 +120,6 @@ If you use this corpus in your research, please cite this repository.
  number = {77-85},
  year = {2022},
  issn = {1005-8095},
- doi ={}
+ doi ={https://www.doi.org/10.3969/j.issn.1005-8095.2022.09.010}
  }
 ```
