@@ -3,8 +3,8 @@
 <h2 align="center"> 📕DDmkTCCorpus: Diachronic Danmaku Text Comments Corpus</h2>
 
 <h4 align="center">
-    <a href="https://github.com/DBsCCorpus">中文</a> |
-    <a href="https://github.com/DBsCCorpus">English</a>
+    <a href="https://github.com/TinyTalks/DDmkTCCorpus/blob/main/README.md">中文</a> |
+    <a href="https://github.com/TinyTalks/DDmkTCCorpus/blob/main/README_en.md">English</a>
 </h4>
 
 1️⃣ The project provides open-source comment data for researchers to conduct in-depth research on the bullet-screen corpus, which mainly focuses on the subculture bullet-screen comment corpus (including but not limited to the guichu, animation and e-sports type).  
