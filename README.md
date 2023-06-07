@@ -4,7 +4,7 @@
 
 <h4 align="center">
     <a href="https://github.com/DBsCCorpus">中文</a> |
-    <a href="https://github.com/DBsCCorpus/README_en.md">English</a>
+    <a href="https://github.com/TinyTalks/DDmkTCCorpus/blob/main/README_en.md">English</a>
 </h4>
 
 1️⃣ 项目为研究者对弹幕语料库进行深入研究提供开源评论数据，主要针对亚文化弹幕评论语料库（包括但不限于鬼畜、动漫、电竞类型）。
