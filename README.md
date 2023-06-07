@@ -1,4 +1,4 @@
-<div align="center"><img src="https://avatars.githubusercontent.com/u/128916285?s=400&u=8ea76106ce0018439d6d6414b26aea62680712d6&v=4" height="100px"/></div>
+<div align="center"><img src="https://avatars.githubusercontent.com/u/128916285?s=400&u=8ea76106ce0018439d6d6414b26aea62680712d6&v=4" height="50px"/></div>
 
 <h2 align="center"> 📕DDmkTCCorpus: Diachronic Danmaku Text Comments Corpus</h2>
 
@@ -7,10 +7,9 @@
     <a href="https://github.com/DBsCCorpus">English</a>
 </h4>
 
-1️⃣ The project provides open source comment data for researchers to conduct in-depth research on the bullet-screen corpus, which mainly focuses on the subculture bullet-screen comment corpus (including but not limited to the guichu, animation and e-sports type).  
+1️⃣ The project provides open-source comment data for researchers to conduct in-depth research on the bullet-screen corpus, which mainly focuses on the subculture bullet-screen comment corpus (including but not limited to the guichu, animation and e-sports type).  
 
 2️⃣ Corpus is maintained by TinyTalks, a Community for NLP research in Short Text in Chinese. 
-
 
 ## Video corpus
 The video corpus were more than 1 milions plays during the years from 2017 to 2020. The attributes can be as follow.
