@@ -1,6 +1,6 @@
 <div align="center"><img src="https://avatars.githubusercontent.com/u/128916285?s=400&u=8ea76106ce0018439d6d6414b26aea62680712d6&v=4" height="300px"/></div>
 
-<h2 align="center"> 📕DDmkTCCorpus: Diachronic Danmaku Text Comments Corpus</h2>
+<h2 align="center"> 📕DDmkTCCorpus: 历时弹幕文本评论语料库</h2>
 
 <h4 align="center">
     <a href="https://github.com/DBsCCorpus">中文</a> |
